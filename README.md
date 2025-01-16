@@ -17,3 +17,15 @@
 #### 🛠️ 활용 사례
 - 전자기기 제조 공정의 품질 검사
 - 스마트팩토리에서의 결함 자동 탐지 시스템
+
+#### ✔︎ 결과
+- YOLOv8 Confusion Matrix
+<img src="https://github.com/user-attachments/assets/04091e24-24e9-4982-ab50-d0ecbddd32a9" width="400" height="400">
+
+- YOLO-NAS Confusion Matrix
+<img src="https://github.com/user-attachments/assets/e1e1766f-eb6c-4001-89f4-dd0f62926bee" width="400" height="400">
+
+
+- Inference image
+<img src="https://github.com/user-attachments/assets/7680df73-ee24-4354-8c8c-b9f8bacfe9dd" width="300" height="500">
+

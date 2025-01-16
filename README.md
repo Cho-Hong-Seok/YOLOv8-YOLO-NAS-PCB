@@ -20,12 +20,12 @@
 
 #### ✔︎ 결과
 - YOLOv8 Confusion Matrix
-<img src="https://github.com/user-attachments/assets/04091e24-24e9-4982-ab50-d0ecbddd32a9" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/04091e24-24e9-4982-ab50-d0ecbddd32a9" width="450" height="400">
 
 - YOLO-NAS Confusion Matrix
 <img src="https://github.com/user-attachments/assets/e1e1766f-eb6c-4001-89f4-dd0f62926bee" width="400" height="400">
 
 
 - Inference image
-<img src="https://github.com/user-attachments/assets/7680df73-ee24-4354-8c8c-b9f8bacfe9dd" width="300" height="500">
+<img src="https://github.com/user-attachments/assets/7680df73-ee24-4354-8c8c-b9f8bacfe9dd" width="350" height="500">
 
